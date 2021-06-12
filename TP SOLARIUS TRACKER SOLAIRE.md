@@ -1,6 +1,6 @@
 TP211-SOLARIUS
 
-L'objectif est de construire un programme en Python qui gèrera le changement de position du panneau solaire, pour qu'il suive la course du soleil.
+L'objectif est de construire un programme en Python permetant de changer la position du panneau solaire, pour qu'il puisse suivre la course du soleil.
 
 Nous découperons la phase de développement en 3 étapes distinctes:
 
@@ -15,4 +15,6 @@ https://lucid.app/lucidchart/40d2b70c-0aa2-4439-b235-f6b58229d0df/edit?viewport_
 
 Scénario 2 :
 Flowchart n°2 :
+
+photo du 2eme "flowchart2.jpg" en lien dans un dossier annexe 
 
