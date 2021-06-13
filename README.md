@@ -33,7 +33,7 @@ Scénario 1 : Flowchart n°1 : réalisé à partir du site lucidchart
 https://lucid.app/lucidchart/40d2b70c-0aa2-4439-b235-f6b58229d0df/edit?viewport_loc=216%2C-124%2C1480%2C595%2C0_0&invitationId=inv_a30fe013-a4ad-4072-aad6-ad4289be47d3
 
 
-Scénario 2 : Flowchart n°2 : réalisé à la main par soucis de complexité
+Scénario 2 : Flowchart n°2 : réalisé à la main par soucis de complexité,
 photo du 2eme "flowchart2.jpg" en lien dans un dossier annexe
 
 
