@@ -37,4 +37,8 @@ Scénario 2 : Flowchart n°2 : réalisé à la main par soucis de complexité,
 photo du 2eme "flowchart2.jpg" en lien dans un dossier annexe
 
 
-En lien : trois codes arduinos fonctionnels (trouvés sur internet). Le premier code étant basique et ne comprenant pas l'horodatage, il ne sera pas utilisé pour faire fonctionner le tracker solaire deux axes.
+En lien : 
+- trois codes arduinos fonctionnels (trouvés sur internet). Le premier code étant basique et ne comprenant pas l'horodatage, il ne sera pas utilisé pour faire fonctionner le tracker solaire deux axes. 
+- les deux programmes des scénarios 1 et 2 en python
+- les deux autres flowcharts, le 3ème étant celui interpretant l'enregistrment des données avec le datalogger.
+
